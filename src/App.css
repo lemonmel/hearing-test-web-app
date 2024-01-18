@@ -1,0 +1,32 @@
+.sidebar{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  min-height: 100vh !important;
+  z-index: 100;
+  padding: 3% 30px 0px 30px;
+  background-color: white;
+  box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+  width: 200px;
+}
+
+
+.active{
+  padding: 5px 20px 5px 20px;
+  border-radius: 7px;
+  background-color: paleturquoise;
+  font-size: large;
+}
+
+.body{
+  margin-top: 3%;
+  margin-left: 225px;
+  margin-right: 2%;
+}
+
+.button{
+  background-color:paleturquoise;
+  color: black;
+  border: 0px;
+}
