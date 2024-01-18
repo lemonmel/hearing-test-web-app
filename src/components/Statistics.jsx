@@ -134,7 +134,7 @@ function Statistics() {
     `Particpant\t${username}\n`+
     `Side\t${side.toUpperCase()}\n`+
     `Overall\t${status.toUpperCase()}\n`+
-    `Frequency\tNB\tNN\tFS\n`+
+    `Frequency\tTn\tTnn\tFS\n`+
     tableForm.join('\n');
 
     // Copy to clipboard
