@@ -1,1 +1,5 @@
-# hearing-test-web-app
+# Hearing Test Web App
+To run:
+`
+npm run dev
+`
